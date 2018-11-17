@@ -1,0 +1,14 @@
+{
+	"/menu1": "\n\nCHAINE TRADITIONNELLE\nEntrées variées \nPalette de porc sauce moutarde\nHaricots blancs\nCarottes sautées\nDesserts variés lactés, fruits, pâtisseries\n\nCHAINE FRITERIE\nEntrées variées \nWings\nFrites\nDesserts variés lactés, fruits, pâtisseries\n\nSALLE ADMINISTRATIVE\nEntrées variées\nPaëlla\nPoisson frais sauce au vin blanc\nRiz\nCarottes sautées\nDesserts variés lactés, fruits, pâtisseries\n\nCHAINE POISSON\nEntrées variées \nPoisson frais au vin blanc\nRiz aux légumes\nCarottes sautées\nDesserts variés lactés, fruits, pâtisseries\n\nCHAINE TOURISTE\nEntrées variées \nPaëlla\n\nDesserts variés lactés, fruits, pâtisseries",
+	"/menu2": "\n\nCHAINE 1 : Traditionnelle\nFriands\nCrudités du jour\nCharcuterie du jour\nNavarin aux pommes\nParmentier de légumes veggie\nJardinière de légumes\nPommes de terre vapeur persillade\nAssortiment de fruits et desserts lactés\nPâtisserie maison\n\nCHAINE 2 : Gourmande\nFriands\nCrudités du jour\nCharcuterie du jour\nNavarin aux pommes\nParmentier de légumes veggie\nJardinière de légumes\nPommes de terre vapeur persillade\nAssortiment de fruits et desserts lactés\nPâtisserie maison\n\nCHAINE 3 :  Snacking\nGrillade\nFrites \nSalade verte\nou \nPaëlla poulet chorizo\n\nCrous Market le Vent debout\nSandwiches maison\nSalades composées\nWraps\nPasta Box\nPaninis\nPâtisseries / Confiseries\nProduits laitiers / Fruits",
+	"/edt": "\n\nProgrammation système\n8:00 - 12:20\nEB-P106/P107\n\nAnglais\n13:50 - 15:50\n\n\nAnglais SELF STUDY\n16:00 - 17:00\n\n\nAnglais SELF STUDY\n17:00 - 18:00\n",
+	"/demain": "Eh oh !! On n'a pas cours demain, tu te calmes ou je te calme !! ",
+	"/meteo": "METEO DE TALENCE, FRANCE\nla journee : Passages nuageux\nla nuit : Ciel dégagé\nTemperature min : 8.0 °C\nTemperature max : 15.7 °C",
+	"/retard": "Alleeeeez, tu dois payer les croissants et les chocolatines maintenant !!!",
+	"/xavier": "c c c c'est t t tcp ii ippp AhAhHaha, tu connais la blague de l'ingé sys et du programeur ?",
+	"/rattrapage": "Démarche qui consiste à reprendre, à tenter de rattraper quelque chose... plus communément appelé un Maxime Teitgen. La note de Maxime d'aujourd'hui : 3 ! A demain pour une nouvelle note",
+	"/alive": "nique ta mère, I'm stayin' alive stayin' alive Ah ah Ah ah stayin' aliiiiiiiiiiiiivvvvve !!!",
+	"/list": "menu1 - menu2 - edt - demain - meteo - retard - xavier - rattrapage - alive - bite - quentin",
+	"/quentin": "coiiiiiin coiiiiiiiiiiiin quentiiiiiiin",
+  	"/bite": "non je ne parle pas de maxime teitgen, noooon voyons !! hehe"
+}
