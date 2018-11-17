@@ -2,8 +2,8 @@ var login = require('facebook-chat-api');
 var handleMessage = require('./src/handleMessage.js');
 
 var userInfo = {
-    email: 'contact@arthurhimself.com',
-    password: 'ahahatutecalmes'
+    email: 'fluffymoombah40@gmail.com',
+    password: 'ptessontmax'
 };
 
 var timeout = undefined; // 1000 for one second
